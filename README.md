@@ -1,2 +1,2 @@
 # programacionWeb1
-Primera clase Casa del futuro
+Primera clase en Casa del futuro
